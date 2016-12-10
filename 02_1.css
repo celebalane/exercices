@@ -1,6 +1,6 @@
-#image1{
-background:url('images/image1.jpg');
+img{
+	background-image: url("images/images1.jpg");
 }
-#image1:hover{
-	background: url('images/image1_2.jpg');
+img:hover{
+	background-image: url("images/images1_2.jpg");
 }
