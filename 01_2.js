@@ -1,5 +1,5 @@
 var nom = 'Doe';
 var prenom = 'John';
-var ville = 'New-york';
+var ville = 'New-York';
 
-alert('Nom : '+nom+'\n Prénom : '+prenom+ '\n Ville : '+ville);
+alert('Nom : '+nom+'\nPrénom : '+prenom+ '\nVille : '+ville);
