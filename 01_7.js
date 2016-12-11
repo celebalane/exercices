@@ -3,6 +3,8 @@ var nationalité;
 var sexe;
 
 age = prompt('Quel âge avez-vous?');
+nationalité = prompt('De quelle nationalité êtes-vous?');
+sexe = prompt('Dernière question, êtes-vous une fille ou un garçon?');
 
 if (age>18) {
 	alert('Vous êtes majeur');
