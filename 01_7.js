@@ -1,4 +1,6 @@
 var age;
+var nationalité;
+var sexe;
 
 age = prompt('Quel âge avez-vous?');
 
